@@ -7,7 +7,7 @@ I'm sharing a free tool I recently released: **Searcher ULP**, a GUI-based folde
 - ⚡ Streaming scanning of large files (no crashes).  
 - 🧩 Automatic detection and extraction of `user:pass` combos.  
 - 📤 Exports results to CSV/TXT, with deduplication and normalization options.  
-- 🖥️ Lightweight and responsive GUI (with DPI support on Windows).  
+- 🖥️ Lightweight and responsive GUI (with DPI support on Windows). 
 
 ## 📸 Screenshots
 ![Main Interface](https://i.postimg.cc/hGXcW5Lf/Searcher-ULP-GUI.png)  
